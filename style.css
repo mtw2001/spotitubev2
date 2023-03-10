@@ -1,0 +1,11 @@
+.header {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.pagetitle {
+    float: center;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+}
